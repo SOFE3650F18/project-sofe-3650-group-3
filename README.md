@@ -1,9 +1,11 @@
 # project-sofe-3650-group-3: ADD process project
 
 # Group members:
--------------------------------------
-| Umar Ehsan         |    100634240 |
-|Diba Shojaeigoradel |    100621768 |
+
+| Name                 | ID        |
+| ---------------------| ----------|
+| Umar Ehsan           | 100634240 |
+| Diba Shojaeigoradel  | 100621768 |
 
 
 Please refer to the "Use cases.pdf" and "Quality attributes and contraints.pdf" files for pre-project work on the ADD process (through assignment 2)
